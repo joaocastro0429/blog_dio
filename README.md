@@ -1,24 +1,22 @@
-# README
+# Projeto blog 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- projeto para criação de post:
+- CRUD onde podemos fazer :
+- Inserir
+- buscar
+- alualizar
+- deletar
 
-Things you may want to cover:
+  ## Tecnologias utilizzadas ruby on rails
 
-* Ruby version
 
-* System dependencies
+## COMO BAIXAR UM PROJETO RAILS  
 
-* Configuration
+- git clone https://github.com/joaocastro0429/blog_dio.git
+- depois colocar no local no vai ficar o projeto
+- bundle install - com esse comando vai baixar todas as depencias do projeto
+- rails s ou server para rodar o servidor pulma.
+  
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
